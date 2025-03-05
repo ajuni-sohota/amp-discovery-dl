@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Model files
+*.h5
+*.model
+*.keras
+
+# Output files
+*.csv
+*.tsv
+*.json
+*.png
+*.jpg
+*.pdf
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Local data
+data/
+datasets/
+results/
+generated_amps.csv
+
+# Logs
+*.log
